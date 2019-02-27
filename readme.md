@@ -3,6 +3,17 @@
 # ktor-redis
 ktor redis client feature base on [lettuce]()(https://github.com/lettuce-io/lettuce-core)
 # example
+```gradle
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+dependencies {
+	        implementation 'com.github.ZenLiuCN:ktor_redis:v0.0.1'
+	}
+```
 ```kotlin
 //initialize
 fun Application.main(){
