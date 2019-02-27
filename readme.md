@@ -1,5 +1,4 @@
-
-[![jitpack-SNAPSHOT](https://jitpack.io/v/ZenLiuCN/ktor-redis.svg)](https://jitpack.io/#ZenLiuCN/ktor-redis)
+[![](https://jitpack.io/v/ZenLiuCN/ktor_redis.svg)](https://jitpack.io/#ZenLiuCN/ktor_redis)
 # ktor-redis
 ktor redis client feature base on [lettuce]()(https://github.com/lettuce-io/lettuce-core)
 # example
